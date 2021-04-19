@@ -9,7 +9,7 @@ syntax on
 filetype on
 
 set expandtab
-set shiftwidth=4
+set tabstop=4
 set autoindent
 
 " different code different tab lenght
