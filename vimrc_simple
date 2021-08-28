@@ -17,3 +17,5 @@ autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,x
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set sw=2
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set ts=2
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set sts=2
+
+set backspace=2
