@@ -12,7 +12,6 @@ set expandtab
 set tabstop=4
 set autoindent
 
-" different code different tab lenght
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set ai
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set sw=2
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set ts=2
