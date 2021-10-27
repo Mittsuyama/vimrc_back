@@ -9,8 +9,10 @@ syntax on
 filetype on
 
 set expandtab
-set tabstop=4
-set autoindent
+set ai
+set sw=4
+set ts=4
+set sts=4
 
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set ai
 autocmd FileType typescriptreact,javascriptreact,less,scss,javascript,html,css,xml,typescript set sw=2
